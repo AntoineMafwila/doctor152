@@ -1,0 +1,63 @@
+body { 
+background-color: #207cca; 
+text-align: center;
+}
+
+#container {
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+	width:100%;
+	font-size:smaller;
+	background-color: white;
+  }
+#container1 {
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+	width:100%;
+	font-size:smaller;
+	background-color: white;
+  }
+ 
+ #colonne2 {
+background-color: #ffc0cb;
+
+
+}
+
+
+ #colonne5 {
+width: 500px;
+
+background-color: #ffc0cb;
+}
+.colonne1 {
+background-color: #00BFFF;
+color : #fff;
+min-width: 20px;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:5px;
+padding-right:5px;
+border-radius: 10px;
+font-size:smaller;
+}
+.form select {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: 1px gray solid;
+  font-size:smaller;
+}
+.loader {
+position : fixed;
+z-index: 9999;
+background : url('icon-loader.gif') 50% 50% no-repeat;
+top : 370px;
+left : 1070px;
+height : 100%;
+width : 100%;
+cursor : wait;
+}
+
