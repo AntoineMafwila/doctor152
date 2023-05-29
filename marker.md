@@ -1,5 +1,5 @@
 ## Deuxième titre
 ### Troisième titre
-*Data Science
-*Bioinformatique
-*Genomique
+* Data Science
+* Bioinformatique
+* Genomique
